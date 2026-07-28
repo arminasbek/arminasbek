@@ -5,14 +5,12 @@ Senior test automation engineer turned AI automation builder. 5 years in test au
 If you have a process someone on your team does manually every day, let's fix that.
 
 **What I build:**
-- Claude Code agents and custom MCP servers
+- AI agents and custom MCP servers → [mcp-crypto-arbitrage](https://github.com/abe-source/mcp-crypto-arbitrage), [skills](https://github.com/abe-source/skills)
 - n8n automation workflows for business processes
-- AI-assisted CI/CD pipelines (code review agents, failure analysis)
-
+- Test automation tooling with AI assist (self-healing suites, failure triage) — 5 years in test automation, this is where AI meets my actual background
 
 **Open to:**
-- Freelance projects involving Claude API, n8n, or agentic pipelines
-- Consultations on CI/CD + AI integration
+- Freelance projects involving LLM APIs, n8n, or agentic pipelines
 - Long-term automation work for dev or ops teams
 
 ---
