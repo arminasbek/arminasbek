@@ -7,7 +7,7 @@ If you have a process someone on your team does manually every day, let's fix th
 **What I build:**
 - AI agents and custom MCP servers → [mcp-crypto-arbitrage](https://github.com/abe-source/mcp-crypto-arbitrage), [skills](https://github.com/abe-source/skills)
 - n8n automation workflows for business processes
-- Test automation tooling with AI assist (self-healing suites, failure triage) — 5 years in test automation, this is where AI meets my actual background
+- Test automation frameworks and suites (5 years — API, UI, hardware/payment terminals)
 
 **Open to:**
 - Freelance projects involving LLM APIs, n8n, or agentic pipelines
