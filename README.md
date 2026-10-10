@@ -6,4 +6,4 @@ If someone on your team runs the same process by hand every day, that is usually
 
 **Stack:** TypeScript, Python. Claude and OpenAI APIs, n8n, MCP, LangGraph, RAG. Playwright, WebdriverIO, Selenium, Appium. Docker, Linux, Proxmox, CI on GitHub Actions and GitLab.
 
-**Freelance and long-term automation work:** [abek.io](https://abek.io)
+**Freelance and long-term automation work:** [abek.dev](https://abek.dev)
